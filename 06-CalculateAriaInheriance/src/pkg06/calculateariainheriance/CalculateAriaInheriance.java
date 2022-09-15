@@ -16,7 +16,8 @@ public class CalculateAriaInheriance {
     public static void main(String[] args) 
     {
         Shape S1=new Shape();
-        
+        System.out.println("Aria of PI ="+S1.getPI());       
+               
     }
     
 }

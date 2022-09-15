@@ -10,6 +10,7 @@ package pkg08.calculateariaabstract;
  */
 public abstract class AbstrctShape 
 {
+    //This method is use for cal
    public abstract void CalculateAria(double input1);
    
    public abstract void CalculateAria(double input1,double input2);
